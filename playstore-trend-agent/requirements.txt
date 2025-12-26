@@ -1,0 +1,7 @@
+python-dotenv
+google-play-scraper
+numpy
+pandas
+scikit-learn
+faiss-cpu
+openai
